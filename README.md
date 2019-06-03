@@ -24,5 +24,4 @@ Include the following:
 
 # Service Level Agreement (SLA)
 
-There is no SLA.  This is a volunteer organization, and we who choose to help people are not getting paid to do so.  If you want to be helped, do not complain or be negative.
-
+There is no SLA.  This is a volunteer organization, and we who choose to help people are not getting paid to do so.  If you want to be helped, do not complain or be negative.  If you can, please help someone else with their issue.  This is not a top-down thing, everyone can help everyone else.
