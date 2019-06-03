@@ -25,7 +25,7 @@ Include the following:
 - Please help document FAQs and stuff on the wiki and create links to the wiki.  Documenting issues and resolutions here is good, documenting the correct methods in one place is great, and that's what the wiki is for.
 
 ## Subscribe to the issues
-https://help.github.com/en/articles/subscribing-to-and-unsubscribing-from-notifications
+https://help.github.com/en/articles/watching-and-unwatching-repositories
 - This will get the most people the quickest help and build a good community.
 
 # Service Level Agreement (SLA)
